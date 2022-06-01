@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Demo.FilterObservableCollection", "Web.Demo.FilterObservableCollection\Web.Demo.FilterObservableCollection.csproj", "{EABB8138-CC4C-46B9-B7FF-C9C6635982BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABB8138-CC4C-46B9-B7FF-C9C6635982BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABB8138-CC4C-46B9-B7FF-C9C6635982BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABB8138-CC4C-46B9-B7FF-C9C6635982BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABB8138-CC4C-46B9-B7FF-C9C6635982BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E945475B-D16E-465A-AA63-5EE63444AE50}
+	EndGlobalSection
+EndGlobal
